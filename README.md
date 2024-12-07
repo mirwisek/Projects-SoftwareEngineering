@@ -1,7 +1,7 @@
 # Software Engineering / Mobile(Android) Projects
 
 
-## [Lavoroland - EU Jobs Portal]([https://github.com/mirwisek/emotion-android](https://github.com/mirwisek/lavoroland))
+## [Lavoroland - EU Jobs Portal](https://github.com/mirwisek/lavoroland)
 An open-source project that lets fresh graduate find the best destination in EU to move to for work. Built with D3JS and complex visuals.
 
 ## [Audio Emotion Classification](https://github.com/mirwisek/emotion-android)
